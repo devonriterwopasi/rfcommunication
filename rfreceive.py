@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=_68f-yp63ds&t=142s
+# http://thezanshow.com/electronics-tutorials/raspberry-pi/tutorial-34-35
+
 import RPi.GPIO as GPIO
 from lib_nrf24 import NRF24
 import time
